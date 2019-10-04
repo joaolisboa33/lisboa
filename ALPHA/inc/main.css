@@ -1,0 +1,197 @@
+/* ficheiro principal de SCSS */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.mrg-vt-5 {
+  margin-top: 5px 0px;
+}
+
+.mrg-vt-10 {
+  margin-top: 10px 0px;
+}
+
+.mrg-vt-15 {
+  margin-top: 15px 0px;
+}
+
+.mrg-vt-20 {
+  margin-top: 20px 0px;
+}
+
+.mrg-vt-30 {
+  margin-top: 30px 0px;
+}
+
+.mrg-vt-40 {
+  margin-top: 40px 0px;
+}
+
+.mrg-hr-5 {
+  margin-top: 0px 5px;
+}
+
+.mrg-hr-10 {
+  margin-top: 0px 10px;
+}
+
+.mrg-hr-15 {
+  margin-top: 0px 15px;
+}
+
+.mrg-hr-20 {
+  margin-top: 0px 20px;
+}
+
+.mrg-hr-30 {
+  margin-top: 0px 30px;
+}
+
+.mrg-hr-40 {
+  margin-top: 0px 40px;
+}
+
+.mrg-5 {
+  margin: 5px;
+}
+
+.mrg-10 {
+  margin: 10px;
+}
+
+.mrg-15 {
+  margin: 15px;
+}
+
+.mrg-20 {
+  margin: 20px;
+}
+
+.mrg-30 {
+  margin: 30px;
+}
+
+.mrg-40 {
+  margin: 40px;
+}
+
+.pad-vt-5 {
+  padding: 5px 0px;
+}
+
+.pad-vt-10 {
+  padding: 10px 0px;
+}
+
+.pad-vt-15 {
+  padding: 15px 0px;
+}
+
+.pad-vt-20 {
+  padding: 20px 0px;
+}
+
+.pad-vt-30 {
+  padding: 30px 0px;
+}
+
+.pad-vt-40 {
+  padding: 40px 0px;
+}
+
+.pad-hr-5 {
+  padding: 0px 5px;
+}
+
+.pad-hr-10 {
+  padding: 0px 10px;
+}
+
+.pad-hr-15 {
+  padding: 0px 15px;
+}
+
+.pad-hr-20 {
+  padding: 0px 20px;
+}
+
+.pad-hr-30 {
+  padding: 0px 30px;
+}
+
+.pad-hr-40 {
+  padding: 0px 40px;
+}
+
+.pad-esq-5 {
+  padding-left: 5px;
+}
+
+.pad-esq-10 {
+  padding-left: 10px;
+}
+
+.pad-esq-15 {
+  padding-left: 15px;
+}
+
+.pad-esq-20 {
+  padding-left: 20px;
+}
+
+.pad-esq-30 {
+  padding-left: 30px;
+}
+
+.pad-esq-40 {
+  padding-left: 40px;
+}
+
+.pad-dir-5 {
+  padding-right: 5px;
+}
+
+.pad-dir-10 {
+  padding-right: 10px;
+}
+
+.pad-dir-15 {
+  padding-right: 15px;
+}
+
+.pad-dir-20 {
+  padding-right: 20px;
+}
+
+.pad-dir-30 {
+  padding-right: 30px;
+}
+
+.pad-dir-40 {
+  padding-right: 40px;
+}
+
+.pad-5 {
+  padding: 5px;
+}
+
+.pad-10 {
+  padding: 10px;
+}
+
+.pad-15 {
+  padding: 15;
+}
+
+.pad-20 {
+  padding: 20px;
+}
+
+.pad-30 {
+  padding: 30px;
+}
+
+.pad-40 {
+  padding: 40px;
+}
